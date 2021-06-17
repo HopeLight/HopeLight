@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I come from the Internet.
-Nice to meet you.
+I am an Internet software development engineer
+It's nice to meet you at Github.
