@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ### This is going to be my development world. 🔋
 ### I will develop a lot of interesting things 🔌
 ### To share with you. 💻
-![Myhome](https://cdn.jsdelivr.net/gh/HopeLight/HopeLight@master/hopeimg.png)
