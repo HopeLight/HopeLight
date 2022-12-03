@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🤔 Hi,I'm glad that you can visit me. ⭐
-## 📫 Job: Student | Java develop engineer.
-## ⚡ hobby: I like doing that self read book or go sleep.
+### 📫 Job: Student | Java develop engineer.
+### ⚡ hobby: I like doing that self read book or go sleep.
