@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🤔 Hi,I'm glad that you can visit me. ⭐
+### 🤔 Hi,I'm glad where you can visit me. ⭐
 ### 📫 Job: Student | Java develop engineer.
 ### ⚡ hobby: I like that self read bokk or sleep.
