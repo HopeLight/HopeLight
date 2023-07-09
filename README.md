@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 🤔 Hi,I'm glad where you can visit me. ⭐
 ### 📫 Job: Student | Java develop engineer.
-### ⚡ hobby: I like that self read bokk or sleep.
+### ⚡ hobby: I like myself who read a book or go to sleep.
