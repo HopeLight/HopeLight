@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🤔Hi,I'm glad where you can visit me. ⭐
 ###
 ### 📫Job: Student | Java develop engineer.
-### ⚡hobby: I like myself who read a book or go to sleep.
+### ⚡hobby: I like myself read a book or goes to sleep in sometimes.
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeLight&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
